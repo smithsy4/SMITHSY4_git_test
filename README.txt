@@ -3,4 +3,8 @@ smithsy4@msu.edu
 Mathematics Major
 Sophomore
 South Lyon MI
-Little to no background besides CMSE 201
+PHD in computer science
+
+Blake Bezemek 
+bezemekb@msu.edu
+
